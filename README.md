@@ -75,6 +75,6 @@ There is a monumental amount of open source software that this project relies on
 
 1. [Litestack](https://github.com/oldmoe/litestack) - Litestack is a lightweight, fast, and flexible web framework for Ruby on Rails.
 1. [Flowbite](https://flowbite.com) - Flowbite is a library of accessible, free, and open source Tailwind CSS components (and of course Tailwind CSS itself).
-1. [ViewComponentContrib](https://github.com/viewcomponent-contrib/view_component) - ViewComponentContrib is a collection of useful ViewComponent extensions.
+1. [ViewComponentContrib](https://github.com/palkan/view_component-contrib) - ViewComponentContrib is a collection of useful ViewComponent extensions.
 
 [^1]: There are some interesting alternatives for hosting SQLite databases, and I hope to explore them shortly.
